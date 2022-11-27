@@ -5,9 +5,14 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila a aplicação principal
 ```
 npm run serve
+```
+
+### Compila o banco de dados
+```
+npm run backend
 ```
 
 ### Compiles and minifies for production
@@ -15,5 +20,9 @@ npm run serve
 npm run build
 ```
 
+### Compiles and minifies for production
+```
+npm run build
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
